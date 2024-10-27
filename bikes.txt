@@ -6,4 +6,9 @@ Cannodale
 En, De, Fr
 -----------------------
 blah-blah
+------------- Cities
+Cologne
+Antwerpen
+Brussel
+--------------------
 blah-blah
