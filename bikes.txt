@@ -3,5 +3,5 @@ Bulls
 Cannodale
 
 ------------- Languages
-
+En, De, Fr
 -----------------------
